@@ -1,0 +1,8 @@
+C:\Users\Mohammad Sami Alam\Documents\Code\TestTRepository\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\Mohammad Sami Alam\Documents\Code\TestTRepository\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Mohammad Sami Alam\Documents\Code\TestTRepository\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Mohammad Sami Alam\Documents\Code\TestTRepository\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Sami Alam\Documents\Code\TestTRepository\Test\obj\Debug\netcoreapp3.1\Test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohammad Sami Alam\Documents\Code\TestTRepository\Test\obj\Debug\netcoreapp3.1\Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohammad Sami Alam\Documents\Code\TestTRepository\Test\obj\Debug\netcoreapp3.1\Test.RazorAssemblyInfo.cache
+C:\Users\Mohammad Sami Alam\Documents\Code\TestTRepository\Test\obj\Debug\netcoreapp3.1\Test.RazorAssemblyInfo.cs
